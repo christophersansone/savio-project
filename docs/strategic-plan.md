@@ -2,19 +2,19 @@
 
 *A Parent-Led Movement to Rebuild Culture in Catholic Grade Schools*
 
-**Strategic Plan · Working draft** · A lay movement under the patronage of St. John Bosco and St. Dominic Savio
+**Strategic Plan · Working draft** · A lay movement under the patronage of St. Dominic Savio and St. John Bosco
 
 > "So in everything, do to others what you would have them do to you, for this sums up the Law and the Prophets." — Matthew 7:12
 >
-> "It is not enough to love the young; they must know that they are loved." — St. John Bosco
+> "I can't do big things, but I want everything I do, even the smallest thing, to be for the greater glory of God." — St. Dominic Savio
 
-*© 2026 [Steward Entity]. Working draft for invited reviewers. Provided for informational and planning purposes only, "as is," without warranty; nothing here is legal, medical, psychological, or other professional advice, and anyone applying these ideas does so voluntarily and at their own risk. Program names are working titles. Third-party marks belong to their respective owners and imply no affiliation or endorsement; this lay initiative is unaffiliated with the Salesian Society or any religious congregation. See [LICENSE.md](../LICENSE.md) and [Stewardship & Operations](stewardship-and-operations.md).*
+*© 2026 [Steward Entity]. Working draft for invited reviewers. Provided for informational and planning purposes only, "as is," without warranty; nothing here is legal, medical, psychological, or other professional advice, and anyone applying these ideas does so voluntarily and at their own risk. Program names are working titles. Third-party marks belong to their respective owners and imply no affiliation or endorsement. See [LICENSE.md](../LICENSE.md) and [Stewardship & Operations](stewardship-and-operations.md).*
 
 ---
 
 ## 1. Executive Summary
 
-Catholic grade schools promise a community formed by the Gospel, yet many families experience something different: social aggression that persists despite everyone's good intentions, a school office asked to carry burdens it was never built to carry, and a culture where the kindest families quietly leave. The Savio Project (a working title, pending the founding team) — a lay movement under the patronage of St. John Bosco, whose Oratory formed young people through reason, religion, and loving-kindness — is a parent-led response. It does not ask the school or parish for permission, budget, or policy change. It organizes parents directly — to build real community, adopt a shared standard of conduct, learn a common language for social aggression, handle parent-to-parent conflict with charity and skill, raise children who stand up for one another through a dedicated children's program, and form children as wise, supervised users of technology from an early age.
+Catholic grade schools promise a community formed by the Gospel, yet many families experience something different: social aggression that persists despite everyone's good intentions, a school office asked to carry burdens it was never built to carry, and a culture where the kindest families quietly leave. The Savio Project (a working title, pending the founding team) — a lay movement under the patronage of St. Dominic Savio, the schoolboy saint who organized his classmates to defend the smallest among them — is a parent-led response. It does not ask the school or parish for permission, budget, or policy change. It organizes parents directly — to build real community, adopt a shared standard of conduct, learn a common language for social aggression, handle parent-to-parent conflict with charity and skill, raise children who stand up for one another through a dedicated children's program, and form children as wise, supervised users of technology from an early age.
 
 The strategy borrows one proven mechanic from the Wait Until 8th movement — commitments organized by school and grade level that "activate" when a critical mass of families signs on, so no family stands alone — while charting its own course on digital formation. It draws its content from the best available research on relational aggression and bystander intervention, and its spiritual frame from the Church's own teaching that parents — not schools — are the primary educators of their children (CCC 2223; *Gravissimum Educationis*).
 
@@ -66,9 +66,11 @@ The Project deliberately requires no approval from the school or parish. Institu
 
 ### Patronage and Identity
 
-The Project is a lay movement of Catholic school families — not affiliated with the Salesian Society or any religious congregation — under the patronage of St. John Bosco and St. Dominic Savio. Bosco's Oratory in the Valdocco district of Turin was part playground, part school, part church, part home, built for young people whom the institutions of his day could not reach. His "preventive system" is the Project's method in miniature — form young people through reason, religion, and loving-kindness so thoroughly that discipline is rarely needed, rather than punishing failures after the fact — and his axiom, "It is not enough to love the young; they must know that they are loved," is the standard for every meeting, conversation, and intervention. St. Dominic Savio, Bosco's fourteen-year-old pupil who organized his classmates and defended the smallest boys from bullying, is the patron of the children's program (Pillar 5): sanctity within reach of a schoolchild, expressed as courage on behalf of others.
+The Project is a lay movement of Catholic school families under the patronage of St. Dominic Savio, and of his teacher, St. John Bosco. Savio is the Project's primary patron because he is exactly what this movement asks children to become: a schoolboy — fourteen when he died, canonized precisely for the holiness of an ordinary school life — who organized his classmates into a company of mutual care, defended the smallest boys from bullying, broke up fights, and befriended the friendless. Sanctity within reach of a schoolchild, expressed as courage on behalf of others: every skit, meeting, and covenant commitment in this plan is an attempt to make Savio's way ordinary again.
 
-**On the name.** "The Savio Project" is the current working name, honoring St. Dominic Savio; the final name belongs to the founding team. Alternatives discussed include names built on Bosco's "Oratory" (The Oratory Project, The Family Oratory, The Parents' Oratory, Oratory Families) — any name should honor the patrons' model without implying Salesian affiliation. The children's program will carry its own kid-facing name, also to be chosen (one candidate already in early development: a club built on the Golden Rule).
+Behind the pupil stands the teacher. Bosco's Oratory in the Valdocco district of Turin — part playground, part school, part church, part home — formed young people whom the institutions of his day could not reach, and his "preventive system" is the Project's method in miniature: form young people through reason, religion, and loving-kindness so thoroughly that discipline is rarely needed, rather than punishing failures after the fact. His axiom, "It is not enough to love the young; they must know that they are loved," is the standard for every meeting, conversation, and intervention.
+
+**On the name.** "The Savio Project" is the current working name; the final name belongs to the founding team. The children's program will carry its own kid-facing name, also to be chosen (one candidate already in early development: a club built on the Golden Rule).
 
 ### Principles
 
@@ -270,7 +272,7 @@ Key sources informing this plan, for the content team and for credibility with s
 - **Rachel Simmons, *Odd Girl Out*** (2002, rev. 2011) and **Rosalind Wiseman, *Queen Bees and Wannabes*** (2003) — the relational-aggression canon for the formation series; underlying research by Nicki Crick.
 - **Bystander-intervention research** — reviews of school-based programs (2007–2018) found 9 of 10 improved bystander efficacy/intent and 7 of 9 improved actual behavior; grounds Pillar 5.
 - **Catechism of the Catholic Church 2221–2231; Vatican II, *Gravissimum Educationis*** — parents as primary educators; the theological warrant for independence.
-- **St. John Bosco, the preventive system** (reason, religion, loving-kindness) and the Oratory model; **St. Dominic Savio** — Bosco's pupil who organized peers to defend the youngest boys; patrons and method for the Project and its children's program. (The Project is a lay movement with no affiliation to the Salesian Society.)
+- **St. Dominic Savio** — the Project's primary patron; the schoolboy saint who organized his peers to defend the youngest boys — and **St. John Bosco**, his teacher, whose preventive system (reason, religion, loving-kindness) and Oratory model supply the Project's method.
 - **Openlight Media, Disciple of Christ — Education in Virtue** — Dominican virtue curriculum with a whole-family component; a model (and possible licensed content source) for the virtue vocabulary.
 
 ---

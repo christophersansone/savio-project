@@ -4,7 +4,7 @@
 
 > "So in everything, do to others what you would have them do to you, for this sums up the Law and the Prophets." — Matthew 7:12
 >
-> "It is not enough to love the young; they must know that they are loved." — St. John Bosco
+> "I can't do big things, but I want everything I do, even the smallest thing, to be for the greater glory of God." — St. Dominic Savio
 
 **Status: working draft — pilot planning.** The project name is a working title; the final name belongs to the founding team. The steward entity is not yet designated and appears throughout as `[Steward Entity]`.
 
@@ -16,7 +16,7 @@
 
 Catholic grade schools promise a community formed by the Gospel, yet many families experience something different: social aggression that persists despite everyone's good intentions, a school office asked to carry burdens it was never built to carry, and a culture where the kindest families quietly leave. The Savio Project organizes parents directly — independent of school administration — to build real community, adopt a shared standard of conduct, learn a common language for social aggression, handle parent-to-parent conflict with charity and skill, raise children who stand up for one another, and form children as wise, supervised users of technology.
 
-The project is a lay movement under the patronage of St. John Bosco and St. Dominic Savio. It is not affiliated with the Salesian Society or any religious congregation.
+The project is a lay movement under the patronage of St. Dominic Savio — the schoolboy saint who organized his classmates to defend the smallest among them — and of his teacher, St. John Bosco.
 
 A group of parents adopting the framework at their school is called a **Savio Community** — independent, self-organizing, and constituted by nothing more than its members' covenant. The project publishes the framework; communities run themselves (see [docs/stewardship-and-operations.md](docs/stewardship-and-operations.md)). Community volunteer roles are described in [content/roles-and-responsibilities.md](content/roles-and-responsibilities.md); the project's own roles — steward and maintainers — in [docs/why-a-steward.md](docs/why-a-steward.md).
 
