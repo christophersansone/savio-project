@@ -84,11 +84,12 @@ const isActive = (href: string) => path === href || path.startsWith(href + '/');
     <div class="h-[3px] bg-gradient-to-r from-gold-soft via-gold to-gold-soft"></div>
 
     <header class="border-b border-line bg-paper/90 backdrop-blur sticky top-0 z-10">
-      <div class="mx-auto max-w-5xl px-5 py-4 flex items-baseline justify-between gap-6">
+      <div class="mx-auto max-w-5xl px-5 py-4 flex items-center justify-between gap-6 relative">
         <a href="/" class="font-display text-2xl font-semibold tracking-wide text-ink-deep whitespace-nowrap">
           The Savio Project
         </a>
-        <nav class="font-sans text-[0.8rem] font-semibold tracking-[0.14em] uppercase flex flex-wrap gap-x-5 gap-y-1 items-baseline">
+
+        <nav class="hidden md:flex font-sans text-[0.8rem] font-semibold tracking-[0.14em] uppercase flex-wrap gap-x-5 gap-y-1 items-baseline">
           {
             nav.map((item) => (
               <a
@@ -103,6 +104,47 @@ const isActive = (href: string) => path === href || path.startsWith(href + '/');
             ))
           }
           <a href={REPO_URL} class="text-ink-soft hover:text-gold transition-colors" title="GitHub repository">
+            GitHub
+          </a>
+        </nav>
+
+        <button
+          id="nav-toggle"
+          type="button"
+          class="md:hidden -mr-1.5 p-1.5 text-ink-deep hover:text-gold transition-colors"
+          aria-expanded="false"
+          aria-controls="mobile-menu"
+          aria-label="Open menu"
+        >
+          <svg id="icon-hamburger" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" class="size-6">
+            <line x1="3" y1="6" x2="21" y2="6"></line>
+            <line x1="3" y1="12" x2="21" y2="12"></line>
+            <line x1="3" y1="18" x2="21" y2="18"></line>
+          </svg>
+          <svg id="icon-close" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" class="size-6 hidden">
+            <line x1="5" y1="5" x2="19" y2="19"></line>
+            <line x1="19" y1="5" x2="5" y2="19"></line>
+          </svg>
+        </button>
+
+        <nav
+          id="mobile-menu"
+          class="md:hidden absolute right-5 top-full mt-2 w-56 origin-top-right rounded-lg border border-line bg-paper shadow-lg py-2 flex flex-col font-sans text-[0.8rem] font-semibold tracking-[0.14em] uppercase opacity-0 scale-95 pointer-events-none transition duration-150 ease-out z-20"
+        >
+          {
+            nav.map((item) => (
+              <a
+                href={item.href}
+                class:list={[
+                  'px-4 py-2 transition-colors hover:text-gold hover:bg-paper-deep',
+                  isActive(item.href) ? 'text-gold' : 'text-ink-soft',
+                ]}
+              >
+                {item.label}
+              </a>
+            ))
+          }
+          <a href={REPO_URL} class="px-4 py-2 text-ink-soft hover:text-gold hover:bg-paper-deep transition-colors" title="GitHub repository">
             GitHub
           </a>
         </nav>
@@ -146,5 +188,46 @@ const isActive = (href: string) => path === href || path.startsWith(href + '/');
         </p>
       </div>
     </footer>
+
+    <script>
+      const toggle = document.getElementById('nav-toggle');
+      const menu = document.getElementById('mobile-menu');
+      const iconHamburger = document.getElementById('icon-hamburger');
+      const iconClose = document.getElementById('icon-close');
+
+      if (toggle && menu && iconHamburger && iconClose) {
+        const setOpen = (open: boolean) => {
+          toggle.setAttribute('aria-expanded', String(open));
+          toggle.setAttribute('aria-label', open ? 'Close menu' : 'Open menu');
+          menu.classList.toggle('opacity-100', open);
+          menu.classList.toggle('scale-100', open);
+          menu.classList.toggle('pointer-events-auto', open);
+          menu.classList.toggle('opacity-0', !open);
+          menu.classList.toggle('scale-95', !open);
+          menu.classList.toggle('pointer-events-none', !open);
+          iconHamburger.classList.toggle('hidden', open);
+          iconClose.classList.toggle('hidden', !open);
+        };
+
+        toggle.addEventListener('click', () => {
+          setOpen(toggle.getAttribute('aria-expanded') !== 'true');
+        });
+
+        document.addEventListener('click', (e) => {
+          const target = e.target as Node;
+          if (!menu.contains(target) && !toggle.contains(target)) setOpen(false);
+        });
+
+        document.addEventListener('keydown', (e) => {
+          if (e.key === 'Escape') setOpen(false);
+        });
+
+        menu.querySelectorAll('a').forEach((a) => a.addEventListener('click', () => setOpen(false)));
+
+        window.matchMedia('(min-width: 768px)').addEventListener('change', (e) => {
+          if (e.matches) setOpen(false);
+        });
+      }
+    </script>
   </body>
 </html>
