@@ -1,6 +1,6 @@
 # The Convictions of Our Catholic School Community
 
-*The Savio Standard (working title) · Working draft · One page — for parents, teachers, staff, administration, and clergy to sign together; see also the [parent version](convictions-parents.md)*
+*The Savio Standard · Working draft · One page — for parents, teachers, staff, administration, and clergy to sign together; see also the [parent version](convictions-parents.md)*
 
 We, the parents, teachers, staff, administrators, and clergy of **[School]**, choose this community on purpose, and we choose it anew every day. The parents among us entrust their children to it; the rest of us receive that trust as sacred. We hold these truths to be self-evident among all who profess Christ:
 

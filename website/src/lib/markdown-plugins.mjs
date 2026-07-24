@@ -27,7 +27,7 @@ const ROOT_FILES = ['CLA', 'CODE_OF_CONDUCT', 'CONTRIBUTING', 'LICENSE', 'README
 /**
  * Remove the document's own H1 (the page layout supplies the title), and the
  * status line that immediately follows when it is a lone italicized paragraph
- * ("*The Savio Standard (working title) · Working draft*").
+ * ("*The Savio Standard · Working draft*").
  */
 export const stripLeadingH1 = () => {
   let done = false;

@@ -1,8 +1,8 @@
 # The Stewardship Commitment
 
-*The Savio Standard (working title) · Patrons: St. Dominic Savio & St. John Bosco · Working draft*
+*The Savio Standard · Patrons: St. Dominic Savio & St. John Bosco · Working draft*
 
-This Project belongs to the families who live it. But someone must hold the pen, keep the website running, and answer for the whole — a steward: **Savio Standard**, serving until a dedicated entity is formed, acting solely in that capacity — separate from its owner's company and products — and making these commitments publicly, binding itself and any successor:
+This Project belongs to the families who live it. But someone must hold the pen, keep the website running, and answer for the whole — a steward: **Savio Standard**, acting solely in that capacity — separate from its owner's company and products — and making these commitments publicly, binding itself and any successor:
 
 1. **Free for families, forever.** The Project's own assets — the core content (covenant, glossary, playbooks, formation materials) and the Project website that delivers it — are free to every family and every school. Participation will never carry a price.
 
@@ -20,7 +20,7 @@ This Project belongs to the families who live it. But someone must hold the pen,
 
 8. **Generosity first.** This work is offered in generosity, by volunteers, for the building of the Kingdom. Because sustaining its core contributors sustains the Project, they may be supported from the sources above: openly, modestly, and never at families' expense.
 
-9. **A worthy successor.** When scale warrants, the mission assets move to a dedicated nonprofit that inherits every commitment on this page.
+9. **A worthy successor.** The mission assets can never be privately captured. If stewardship ever transfers — to a dedicated nonprofit or otherwise — any successor inherits every commitment on this page.
 
 10. **A graceful ending, if it comes.** If the Project is ever wound down, the core content will be released under an open license so that any community may carry it forward.
 

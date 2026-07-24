@@ -22,7 +22,7 @@ The workflow:
 - **Requires [CLA](CLA.md):** authored content — new documents, substantial rewrites, new sections, meeting kits, skits, playbook material, translations of project content. Agree once by adding this line to your first PR description: `I have read and agree to the Contributor License Agreement (CLA.md).`
 - **No CLA needed:** issues, discussion, feedback, typo and formatting fixes, bug reports on generated outputs.
 
-The CLA exists so the whole work stays licensable as one thing — transferable to a future nonprofit, publishable, and commercially licensable to fund the mission. You keep permanent credit and free use of everything. The reasoning is spelled out plainly in [docs/why-a-steward.md](docs/why-a-steward.md).
+The CLA exists so the whole work stays licensable as one thing — transferable to a future steward, publishable, and commercially licensable to fund the mission. You keep permanent credit and free use of everything. The reasoning is spelled out plainly in [docs/why-a-steward.md](docs/why-a-steward.md).
 
 ## Style
 

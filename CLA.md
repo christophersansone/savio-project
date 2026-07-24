@@ -1,12 +1,12 @@
 # Contributor License Agreement
 
-*Individual Contributor License Agreement for The Savio Standard (working title). Working draft — to be finalized by counsel before wide use.*
+*Individual Contributor License Agreement for The Savio Standard. Working draft — to be finalized by counsel before wide use.*
 
-Thank you for contributing. This agreement exists for one reason: the project's work must remain licensable as a single whole — so it can be offered free to families under a public license, licensed commercially to fund the mission, transferred to a future nonprofit steward, and published — none of which is possible if each contribution carries separate, unclarified rights. You keep credit, and you keep free use of everything, forever.
+Thank you for contributing. This agreement exists for one reason: the project's work must remain licensable as a single whole — so it can be offered free to families under a public license, licensed commercially to fund the mission, transferred to a future steward, and published — none of which is possible if each contribution carries separate, unclarified rights. You keep credit, and you keep free use of everything, forever.
 
 By stating in a pull request that you agree to this CLA, you accept the following for that and all future contributions:
 
-1. **Definitions.** "Contribution" means any original work of authorship you intentionally submit to the project. "Steward" means Savio Standard, the project's designated rights steward, and its successors (including any nonprofit to which the project's assets are transferred).
+1. **Definitions.** "Contribution" means any original work of authorship you intentionally submit to the project. "Steward" means Savio Standard, the project's designated rights steward, and its successors (including any entity to which the project's assets are later transferred).
 
 2. **License grant.** You grant the steward a perpetual, worldwide, non-exclusive, royalty-free, irrevocable license to use, reproduce, modify, adapt, publish, translate, distribute, publicly display, and sublicense your contribution, and to license it under any terms the steward chooses — including the project's public license (CC BY-NC-SA 4.0) and commercial licenses whose proceeds support the mission — consistent with the [Stewardship Commitment](docs/stewardship-commitment.md).
 

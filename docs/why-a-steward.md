@@ -1,28 +1,28 @@
 # Why a Steward?
 
-*A plain answer for contributors and founding families · The Savio Standard (working title) · Working draft*
+*A plain answer for contributors and founding families · The Savio Standard · Working draft*
 
 If you contribute to this Project — writing, hosting, testing, or just showing up — you deserve a straight answer about who owns what and why. Here it is.
 
 ## Why does anyone need to "own" this at all?
 
-Because the law gives every piece of writing an owner automatically, whether we like it or not — the only question is whether ownership is organized or scattered. Someone must be able to sign for the whole: grant a school permission to use the materials, register the copyright, defend the name from misuse, run the website, and one day hand everything to a nonprofit. If ten contributors each own their paragraph, none of that is possible — the work becomes "orphaned," and orphaned work can never be licensed, published, transferred, or even given away properly. Ownership is unavoidable. What we can choose is to make it accountable. That accountable owner is called the steward.
+Because the law gives every piece of writing an owner automatically, whether we like it or not — the only question is whether ownership is organized or scattered. Someone must be able to sign for the whole: grant a school permission to use the materials, register the copyright, defend the name from misuse, run the website, and hand everything to a successor if that day ever comes. If ten contributors each own their paragraph, none of that is possible — the work becomes "orphaned," and orphaned work can never be licensed, published, transferred, or even given away properly. Ownership is unavoidable. What we can choose is to make it accountable. That accountable owner is called the steward.
 
 ## Who is the steward, and why them?
 
-Someone has to go first: buy the domain, pay the hosting, file the paperwork, carry the insurance, and do it before there is any money or any certainty this succeeds. For now that is **Savio Standard** — expected to be a founder-managed entity acting under the Project's own registered name — until the founding team settles the designation and, eventually, a dedicated entity is formed. The steward role is temporary by design: the written commitments require handing the mission assets to a dedicated nonprofit when the Project grows into one.
+Someone has to go first: buy the domain, pay the hosting, file the paperwork, carry the insurance, and do it before there is any money or any certainty this succeeds. For now that is **Savio Standard**, a founder-managed entity acting under the Project's own name. It may reorganize over time — to a dedicated LLC, a nonprofit, or no change at all — quietly, as circumstances warrant. The written commitments travel with it regardless of form: whatever holds the mission assets inherits every promise on the Stewardship Commitment.
 
 ## Isn't this a power move?
 
-Judge it by what the steward gives up in writing. The [Stewardship Commitment](stewardship-commitment.md) — published and signed — promises that the content and website stay free for families forever; that license terms are never tightened retroactively; that contributors are credited permanently; that any product built by the steward's owners is disclosed as such and recommended only under published criteria that apply equally to competitors; that mission assets move to a nonprofit when scale warrants; and that if the Project ever winds down, the core content is released under an open license so any community can carry it on. A power move needs the opposite of every one of those promises. This is also the arrangement the open-source software world has run on for decades: an accountable rights-holder, a free public license, and many contributors — it works because the deal is public.
+Judge it by what the steward gives up in writing. The [Stewardship Commitment](stewardship-commitment.md) — published and signed — promises that the content and website stay free for families forever; that license terms are never tightened retroactively; that contributors are credited permanently; that any product built by the steward's owners is disclosed as such and recommended only under published criteria that apply equally to competitors; that mission assets can never be privately captured, whatever form the steward eventually takes; and that if the Project ever winds down, the core content is released under an open license so any community can carry it on. A power move needs the opposite of every one of those promises. This is also the arrangement the open-source software world has run on for decades: an accountable rights-holder, a free public license, and many contributors — it works because the deal is public.
 
 ## Who actually runs the repository day to day?
 
-Not the steward — the **maintainers**: individual people, at least two at all times, who organize contributions, keep collaboration healthy, and give final approval to changes. The steward is an organization that holds rights and makes promises; maintainers are the humans who tend the work. Keeping these separate matters: it means no single person is a bottleneck or a single point of failure, and it means the repository keeps running smoothly even as the steward entity changes (from placeholder, to dedicated entity, to nonprofit).
+Not the steward — the **maintainers**: individual people, at least two at all times, who organize contributions, keep collaboration healthy, and give final approval to changes. The steward is an organization that holds rights and makes promises; maintainers are the humans who tend the work. Keeping these separate matters: it means no single person is a bottleneck or a single point of failure, and it means the repository keeps running smoothly even if the steward entity's form ever changes.
 
 ## Why not just form a nonprofit now?
 
-Weight before proof. A nonprofit means a board, filings, accounting, and governance overhead — right when the Project is one pilot school that may not survive its first year. The pilot needs content and families, not bylaws. The commitment to spin out the nonprofit is already made; scale triggers it.
+Weight before proof. A nonprofit means a board, filings, accounting, and governance overhead — real cost, and today the Project is a content repository and a website run on sponsorship money, not an operation that needs it. The pilot needs content and families, not bylaws. If the Project ever reaches a scale where that overhead buys real protection or credibility it doesn't already have, the option is there — but nothing here commits in advance to that specific destination. What's committed to is narrower and simpler: the promises on the Stewardship Commitment survive, whatever the steward's form turns out to be, forever.
 
 ## What do contributors give, and what do they keep?
 

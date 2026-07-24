@@ -4,13 +4,11 @@ Working checklist — basic project management, not codified content. Edit freel
 
 ## Legal & entity
 
-- [ ] Finalize the Project name (founding team decision)
-- [ ] Formalize the initial steward entity; register the Project name
 - [ ] Counsel review: terms of use for the website and licensed apps
 - [ ] Counsel review: finalize the contributor agreement (CLA.md)
 - [ ] Publish and sign the Stewardship Commitment
 - [ ] Copyright registrations for core works once they circulate beyond the founding team
-- [ ] Trademark applications upon final naming (movement and children's program)
+- [ ] Trademark application for "The Savio Standard"; children's program name still to be chosen
 
 ## Repository & governance
 

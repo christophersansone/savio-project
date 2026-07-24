@@ -1,6 +1,6 @@
 # Stewardship & Operations
 
-*The Savio Standard (working title) — companion to the [Strategic Plan](strategic-plan.md) · Working draft · © 2026 Savio Standard*
+*The Savio Standard — companion to the [Strategic Plan](strategic-plan.md) · Working draft · © 2026 Savio Standard*
 
 ## 1. Purpose
 
@@ -18,9 +18,9 @@ A deliberate consequence: the organization must resist the well-meaning urge to 
 
 ## 3. Entity Structure and Roadmap
 
-**Now.** An initial steward entity will be formalized, holding all Project intellectual property — content, names, and the Project website — under the published [Stewardship Commitment](stewardship-commitment.md). Funding at this stage is sponsorship (a commercial arrangement any entity can honestly offer) — the word "donation" is not used, because donations to a for-profit are not tax-deductible and charitable solicitation is state-regulated. The word "Foundation" is likewise reserved until it is true.
+**Now.** The steward entity — Savio Standard — holds all Project intellectual property — content, names, and the Project website — under the published [Stewardship Commitment](stewardship-commitment.md). Funding at this stage is sponsorship (a commercial arrangement any entity can honestly offer) — the word "donation" is not used, because donations to a for-profit are not tax-deductible and charitable solicitation is state-regulated. The word "Foundation" is likewise reserved until it is true.
 
-**As the Project matures.** Stewardship may transfer to another entity — nonprofit or not — at any time, with the Stewardship Commitment binding every successor. At sufficient scale, a not-for-profit foundation is the likely destination: at that point "Foundation," tax-deductible donations, and a board become accurate, and the mission assets — core content, name, and the free platform — are assigned to it. Commercial products remain with their owners (Section 6).
+**As the Project matures.** Stewardship may reorganize at any time — a dedicated LLC, a nonprofit foundation, or no change at all — quietly and without ceremony, with the Stewardship Commitment binding every successor regardless of form. If the Project ever reaches a scale where "Foundation," tax-deductible donations, and a board are the right fit, that conversion is available and the mission assets — core content, name, and the free platform — would move to it. Nothing about the current structure requires that outcome, and staying a lean, founder-managed entity indefinitely remains a legitimate destination in its own right. Commercial products remain with their owners (Section 6).
 
 **At the pilot school.** The founders are also local parents. When they host gatherings, they do so as private individuals hosting private social events — not as the organization. Keeping that distinction in practice, not just on paper, is what preserves the bright line of Section 2.
 
@@ -30,9 +30,9 @@ A deliberate consequence: the organization must resist the well-meaning urge to 
 
 **The irreversibility rule.** License terms for existing users are never tightened retroactively. This is the lesson of the Redis relicensing conflict: communities do not punish monetization, they punish changed deals, and content forks are the community's recourse. Terms may loosen over time; they may never retroactively tighten.
 
-**Contributions.** Anyone authoring content for the Project agrees to a short contributor agreement ([CLA](../CLA.md)) granting the steward the rights needed to maintain dual licensing, with permanent public credit. Without it, contributed material freezes the Project's ability to license, transfer to the nonprofit, or publish. Ideas, feedback, testing, and event-hosting create no IP entanglement and need no paperwork.
+**Contributions.** Anyone authoring content for the Project agrees to a short contributor agreement ([CLA](../CLA.md)) granting the steward the rights needed to maintain dual licensing, with permanent public credit. Without it, contributed material freezes the Project's ability to license, transfer to a successor, or publish. Ideas, feedback, testing, and event-hosting create no IP entanglement and need no paperwork.
 
-**Registrations.** Copyright arises automatically, but register core works with the U.S. Copyright Office (about $65) once they circulate beyond the founding team, to unlock statutory damages. File trademark applications for the final names (movement, children's program) when chosen — for a would-be national movement, the marks are where lasting protection lives.
+**Registrations.** Copyright arises automatically, but register core works with the U.S. Copyright Office (about $65) once they circulate beyond the founding team, to unlock statutory damages. File a trademark application for "The Savio Standard"; for the children's program, once its name is chosen — for a would-be national movement, the marks are where lasting protection lives.
 
 ## 5. Terms of Use and Indemnification
 

@@ -6,7 +6,7 @@
 >
 > "I can't do big things, but I want everything I do, even the smallest thing, to be for the greater glory of God." — St. Dominic Savio
 
-**Status: working draft — pilot planning.** The project name is a working title; the final name belongs to the founding team. The steward entity is Savio Standard, serving in that capacity until a dedicated entity is formed.
+**Status: working draft — pilot planning.** The steward is Savio Standard, a founder-managed entity; it may reorganize quietly as the Project grows, and any successor inherits its commitments.
 
 > ### 📖 Start here: the [Strategic Plan](docs/strategic-plan.md)
 >
@@ -58,7 +58,7 @@ This repository is the canonical source. Formatted documents, the website, and a
 
 ## Contact & questions
 
-This repository lives at [github.com/christophersansone/savio-standard](https://github.com/christophersansone/savio-standard) (its home until a formal steward entity is established). The best way to ask a question or raise a concern is to [open an issue](https://github.com/christophersansone/savio-standard/issues); for private matters — including Code of Conduct reports — contact a maintainer directly ([@christophersansone](https://github.com/christophersansone)).
+This repository lives at [github.com/christophersansone/savio-standard](https://github.com/christophersansone/savio-standard). The best way to ask a question or raise a concern is to [open an issue](https://github.com/christophersansone/savio-standard/issues); for private matters — including Code of Conduct reports — contact a maintainer directly ([@christophersansone](https://github.com/christophersansone)).
 
 ## License
 

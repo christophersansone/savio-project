@@ -32,7 +32,7 @@ function walk(node, fn) {
 /**
  * Remove the document's own H1 (the page layout supplies the title),
  * and the status line that immediately follows it when it is a lone
- * italicized paragraph ("*The Savio Standard (working title) · Working draft*").
+ * italicized paragraph ("*The Savio Standard · Working draft*").
  */
 export function stripLeadingH1() {
   return (tree) => {
