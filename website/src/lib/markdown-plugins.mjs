@@ -9,8 +9,8 @@ const REPO_BLOB = 'https://github.com/christophersansone/savio-standard/blob/mas
 const ROUTES = {
   'strategic-plan': '/plan',
   'covenant': '/covenant',
-  'manifesto-parents': '/manifesto',
-  'manifesto-community': '/manifesto/community',
+  'convictions-parents': '/convictions',
+  'convictions-community': '/convictions/community',
   'parent-to-parent-protocol': '/protocol',
   'glossary': '/glossary',
   'roles-and-responsibilities': '/roles',

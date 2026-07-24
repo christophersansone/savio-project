@@ -1,13 +1,13 @@
-# A Manifesto of Our Catholic School Community
+# The Convictions of Our Catholic School Community
 
-*The Savio Standard (working title) · Working draft · One page — for parents, teachers, staff, administration, and clergy to sign together; see also the [parent version](manifesto-parents.md)*
+*The Savio Standard (working title) · Working draft · One page — for parents, teachers, staff, administration, and clergy to sign together; see also the [parent version](convictions-parents.md)*
 
 We, the parents, teachers, staff, administrators, and clergy of **[School]**, choose this community on purpose, and we choose it anew every day. The parents among us entrust their children to it; the rest of us receive that trust as sacred. We hold these truths to be self-evident among all who profess Christ:
 
 - Every child is made in the image of God and bears a dignity that no one's behavior, position, or convenience may discount.
 - The Golden Rule is the **standard** of a Christian community, not its aspiration.
 - Parents are the first educators of their children, and the school is their indispensable partner; neither can form a child alone.
-- A Catholic school is a community of believers before it is an institution, and what a community tolerates, it teaches.
+- A Catholic school is more than an academic institution: it is the community where children spend their day learning how to interact with their peers and the adults who guide them.
 - The Faith is not a subject. It is _taught_ in religion class and _lived_ in the hallway, the lunchroom, the faculty room, and the group chat.
 
 Therefore, in how we live together, **we choose:**
@@ -31,4 +31,4 @@ That is: while the things on the right have real value, whenever they conflict w
 
 **As clergy,** we will teach this standard from the pulpit, hold the whole community, including the school, accountable to it, and shepherd every family in it, the difficult ones most of all.
 
-We sign not because these things are easy, but because we believe them, and because a community that will not state its standard has already surrendered it.
+We sign this not because it is easy, but because we believe it — and when this community lives by the standard it states, we will be its strongest advocates.
