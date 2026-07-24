@@ -1,0 +1,138 @@
+---
+import Base from '../layouts/Base.astro';
+import { bySlug, REPO_URL } from '../lib/registry';
+
+const reading = [
+  {
+    doc: bySlug('plan'),
+    time: '30–45 min',
+    why: 'The full case: the drift this addresses, the theology behind organizing parents, and the year-one plan for a single school.',
+  },
+  {
+    doc: bySlug('commitment'),
+    time: '2 min',
+    why: 'Eleven public promises — including that this stays free for families, forever, and that no community answers to a central authority.',
+  },
+  {
+    doc: bySlug('why-a-steward'),
+    time: '5 min',
+    why: 'Plain-language answers on governance and ownership — useful if a board member or pastor asks who is behind this.',
+  },
+  {
+    doc: bySlug('stewardship'),
+    time: '10 min · optional',
+    why: 'The fuller terms, for a business office that wants the complete picture.',
+  },
+];
+---
+
+<Base
+  title="For Schools"
+  description="A free, parent-led framework for restoring the Golden Rule as the standard of school culture — what it is, why it helps, and how to get it started."
+>
+  <!-- Hero -->
+  <section class="mx-auto max-w-3xl px-5 pt-20 pb-14 text-center">
+    <p class="eyebrow mb-6">For Schools &amp; Parishes</p>
+    <h1 class="font-display text-5xl sm:text-6xl font-semibold leading-[1.08] text-ink-deep text-balance">
+      A partner for your school's culture, not a program to run
+    </h1>
+    <p class="mt-7 text-lg leading-relaxed text-ink-soft max-w-2xl mx-auto">
+      The Savio Standard is a free, parent-led framework for restoring the Golden Rule as the actual standard of daily life — built to complement your school's mission, at no cost and no burden to your office.
+    </p>
+  </section>
+
+  <!-- What it is -->
+  <section class="border-y border-line bg-paper-deep">
+    <div class="mx-auto max-w-3xl px-5 py-14 text-center">
+      <p class="eyebrow mb-4">What it is</p>
+      <h2 class="font-display text-3xl font-semibold text-ink-deep mb-6">A shared standard, built and run by families</h2>
+      <p class="text-lg leading-relaxed text-ink-soft">
+        A group of parents at a school adopts a common framework: a signed <a href="/covenant" class="text-gold underline underline-offset-2">Family Covenant</a>, a shared <a href="/glossary" class="text-gold underline underline-offset-2">vocabulary</a> for naming social conflict, a scripted <a href="/protocol" class="text-gold underline underline-offset-2">protocol</a> for the hard parent-to-parent conversation, and volunteer <a href="/roles" class="text-gold underline underline-offset-2">roles</a> — School Leads, Homeroom Hosts — that keep every family known and included. It draws on the Church's own teaching that parents are the first educators of their children (CCC 2223; <em>Gravissimum Educationis</em>), and it runs alongside your school's mission rather than inside your office.
+      </p>
+    </div>
+  </section>
+
+  <!-- Why it helps -->
+  <section class="mx-auto max-w-3xl px-5 py-16 text-center">
+    <p class="eyebrow mb-4">Why it helps</p>
+    <h2 class="font-display text-3xl font-semibold text-ink-deep mb-6">It carries weight your office was never built to carry</h2>
+    <p class="text-lg leading-relaxed text-ink-soft">
+      Relational conflict between students is exhausting to manage from behind a desk: confidentiality rules keep parents from seeing what was done, the families hardest to reach are often the least receptive to a school's intervention, and ordinary friction that never rises to discipline still lands in your inbox. A community of equipped parents, working from a common standard and a real protocol, can resolve much of this before it reaches you — and the families who feel most cared for tend to be the ones who stay.
+    </p>
+  </section>
+
+  <!-- Why you'd want it -->
+  <section class="border-y border-line bg-paper-deep">
+    <div class="mx-auto max-w-3xl px-5 py-14 text-center">
+      <p class="eyebrow mb-4">Why you'd want it here</p>
+      <h2 class="font-display text-3xl font-semibold text-ink-deep mb-6">Stronger community, at no cost to you</h2>
+      <p class="text-lg leading-relaxed text-ink-soft">
+        There's no fee, no curriculum to adopt, no policy to change, and no data that comes to your office. Each Savio Community is independent and accountable for itself; the framework is simply published, free, for any family to use. Many schools find that the language and habits it builds — a shared vocabulary, a known protocol, families who know each other — become useful enough that the school adopts them on its own terms over time.
+      </p>
+    </div>
+  </section>
+
+  <!-- How to get started -->
+  <section class="mx-auto max-w-3xl px-5 py-16 text-center">
+    <p class="eyebrow mb-4">How to get it started</p>
+    <h2 class="font-display text-3xl font-semibold text-ink-deep mb-6">Find the parents who already do this</h2>
+    <p class="text-lg leading-relaxed text-ink-soft">
+      Every school already has a handful of parents who build community without being asked — the ones who organize the class party, welcome the new family, or notice when someone's struggling. Those are the people to hand this to. Share the parent reading list below with them, or point them to the <a href="/for-parents" class="text-gold underline underline-offset-2">parent starter page</a>. A founding team of three or four families is usually enough to get a grade started; growth from there is organic.
+    </p>
+  </section>
+
+  <!-- Reading order -->
+  <section class="border-y border-line bg-paper-deep">
+    <div class="mx-auto max-w-3xl px-5 py-16">
+      <div class="ornament mb-10"><span class="eyebrow">Read these, if you want the full picture</span></div>
+      <ol class="space-y-8">
+        {
+          reading.map((r, i) => (
+            <li class="flex gap-5">
+              <div class="font-display text-3xl text-gold font-semibold shrink-0 w-8 text-center">{i + 1}</div>
+              <div>
+                <a
+                  href={'/' + r.doc!.slug}
+                  class="font-display text-xl font-semibold text-ink-deep hover:text-gold transition-colors"
+                >
+                  {r.doc!.title}
+                </a>
+                <span class="font-sans text-xs uppercase tracking-[0.1em] text-ink-soft/70 ml-2">{r.time}</span>
+                <p class="font-sans text-[0.95rem] leading-relaxed text-ink-soft mt-1.5">{r.why}</p>
+              </div>
+            </li>
+          ))
+        }
+      </ol>
+    </div>
+  </section>
+
+  <!-- A friendly meeting -->
+  <section class="mx-auto max-w-3xl px-5 py-16 text-center">
+    <p class="eyebrow mb-4">Then what</p>
+    <h2 class="font-display text-3xl font-semibold text-ink-deep mb-6">A short, friendly meeting</h2>
+    <p class="text-lg leading-relaxed text-ink-soft">
+      Most schools first hear about this when a small team of parents asks for a short meeting with the principal or pastor — not to seek approval, but to introduce themselves, share what they're doing, and answer questions. If parents haven't approached you yet and you like what you've read, there's nothing stopping you from raising it yourself.
+    </p>
+    <div class="mt-9 flex flex-wrap justify-center gap-4 font-sans">
+      <a
+        href="/plan"
+        class="rounded-md bg-ink-deep px-6 py-3 text-sm font-semibold tracking-wide text-paper uppercase hover:bg-ink transition-colors"
+      >
+        Read the Plan
+      </a>
+      <a
+        href="/library"
+        class="rounded-md border border-gold px-6 py-3 text-sm font-semibold tracking-wide text-gold uppercase hover:bg-gold hover:text-paper transition-colors"
+      >
+        See everything else
+      </a>
+    </div>
+    <p class="mt-8 font-sans text-sm text-ink-soft">
+      Have parents ready to start? Point them to the <a href="/for-parents" class="text-gold underline underline-offset-2">parent starter page</a>.
+    </p>
+    <p class="mt-3 font-sans text-sm text-ink-soft">
+      Questions? Best way in is <a href={`${REPO_URL}/issues`} class="text-gold underline underline-offset-2">an issue on GitHub</a> — or reach a maintainer directly.
+    </p>
+  </section>
+</Base>
