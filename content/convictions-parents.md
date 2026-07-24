@@ -30,7 +30,6 @@ Because we hold these truths, we state our expectations plainly, beginning with 
 **We expect of our fellow parents:**
 
 - Exactly what we expect of ourselves, nothing more and nothing less.
-- A parent who comes to us directly is doing us a favor. We promise to be that parent, and to receive that parent.
 
 **We expect of our school:**
 
